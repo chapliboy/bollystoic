@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bollywood Stoicism</title>
+    <link>https://bollystoic.chapliboy.com/</link>
+    <description>Recent content on Bollywood Stoicism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Aug 2021 17:06:00 +0530</lastBuildDate><atom:link href="https://bollystoic.chapliboy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pehli Baar</title>
+      <link>https://bollystoic.chapliboy.com/lyrics/b/</link>
+      <pubDate>Thu, 26 Aug 2021 17:06:00 +0530</pubDate>
+      
+      <guid>https://bollystoic.chapliboy.com/lyrics/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chor Bazaari</title>
+      <link>https://bollystoic.chapliboy.com/lyrics/a/</link>
+      <pubDate>Thu, 26 Aug 2021 17:05:00 +0530</pubDate>
+      
+      <guid>https://bollystoic.chapliboy.com/lyrics/a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
