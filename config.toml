@@ -1,0 +1,8 @@
+baseURL = "https://bollystoic.chapliboy.com/"
+languageCode = "en-us"
+title = "Bollywood Stoicism"
+theme = "bollystoic"
+
+[params]
+siteHeader = "Bollywood Stoicism"
+siteSubheader = "Finding Stoic Wisdom in Bollywood Lyrics"

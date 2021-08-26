@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ .Content }}
+    {{ range where .Site.RegularPages.Reverse "File.Dir" "lyrics/" }}
+    <div class="entry">
+        <p class="hindi"> {{ .Params.Hindi }} </p>
+        <p class="english"> {{ .Params.English }} </p>
+        <div class="details">
+            <p class="song item"> <strong>Song:</strong> {{ .Params.Title }} </p>
+            <p class="film item"> <strong>Film:</strong> {{ .Params.Film }} </p>
+            <p class="link item"><a href={{ .Params.Link }} target="_blank"> Link </a> </p>
+        </div>
+    </div>
+    {{ end }}
+{{- partial "footer.html" . -}}
+{{ end }}
