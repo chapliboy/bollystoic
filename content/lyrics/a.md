@@ -1,5 +1,5 @@
 ---
-hindi: "Ghatni hi thi yeh bhi ghatna, ghathe ghathe lo ye ghat gayi"
+hindi: "Ghatni hi thi yeh bhi ghatna, ghatthe ghatthe lo ye ghat gayi"
 english: "This occurence always had to occur, and as other occurrences occurred, this too occurred."
 link: "https://youtu.be/sDne5fEsxec?t=75"
 film: "Love Aaj Kal"
