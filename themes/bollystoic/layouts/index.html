@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ .Content }}
-    {{ range where .Site.RegularPages.Reverse "File.Dir" "lyrics/" }}
+    <div class="chapter-header" id="chapter1"> Chapter 1 </div>
+    {{ range where .Site.RegularPages.Reverse ".Params.chapter" "==" 1 }}
     <div class="entry">
         <p class="hindi"> {{ .Params.Hindi }} </p>
         <p class="english"> {{ .Params.English }} </p>
