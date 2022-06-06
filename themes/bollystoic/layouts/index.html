@@ -1,6 +1,8 @@
 {{ define "main" }}
+<div class="para">
 {{ .Content }}
-    <div class="chapter-header" id="chapter1"> Chapter 1 </div>
+</div>
+<!-- <div class="chapter-header" id="chapter1"> Chapter 1 </div> -->
     {{ range where .Site.RegularPages.Reverse ".Params.chapter" "==" 1 }}
     <div class="entry">
         <p class="hindi"> {{ .Params.Hindi }} </p>

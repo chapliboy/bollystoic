@@ -18,6 +18,9 @@ h3 {
 .total {
     min-height: 100vh;
 }
+.para {
+  padding-bottom: 1.2em;
+}
 
 .content {
     max-width: 600px;
